@@ -1,14 +1,12 @@
-# Sungyeop Choo 🙋🏻 | @danielsychoo
+<h2 align="left">Hi 👋, I'm Sungyeop Choo.</h1>
 
-현재 JavaScript를 공부하고 있습니다. <br>
-능력만 있는 개발자보다는 사람들이 함께하기를 원하는 개발자가 되고싶습니다.
+- 🌱 I’m currently learning **JavaScript & Node.js**
 
-## Strength ⭐️
-사람들과의 관계를 중요시하는 관계적 성향 <br>
-스스로 찾아보고 고민하는 탐구심 <br>
-맡은 부분에 대한 확실한 책임감 <br>
+- 📝 I regularly write articles on [Choo's Tech Blog](https://sungyeop.kr/)
 
-## My tag 🍀
-\#서울 \#이천 \#대전 <br>
-\#HTML \#CSS \#JavaScript <br>
-\#킥복싱 \#스노우보드
+- 📫 How to reach me **[sungyeop.choo@gmail.com](mailto:sungyeop.choo@gmail.com)**
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielsychoo&show_icons=true&locale=en&layout=compact" alt="danielsychoo" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danielsychoo&" alt="danielsychoo" /></p>
