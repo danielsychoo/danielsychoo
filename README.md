@@ -8,29 +8,7 @@
 스스로 찾아보고 고민하는 탐구심 <br>
 맡은 부분에 대한 확실한 책임감 <br>
 
-## Career path 🏃🏻
-
-CodeStates Software Engineering <br>
-Full Immersive course 25th (2020.11.30 ~ now) <br>
-
-CodeStates Software Engineering <br>
-Full Pre course 8th (2020.10.26 ~ 2020.11.27) <br>
-
-이천시시설관리공단 <br>
-9급 행정사무직 (2019.06.03 ~ 2020.09.30) <br>
-
-이마트 보안팀 <br>
-인사,급여담당 선임 (2017.08.24 ~ 2019.03.22) <br>
-
-롯데프리미엄아울렛 안전팀 <br>
-인사,노무담당 부소장 (2016.01.11 ~ 2017.08.20) <br>
-
 ## My tag 🍀
 \#서울 \#이천 \#대전 <br>
 \#HTML \#CSS \#JavaScript <br>
 \#킥복싱 \#스노우보드
-
-## Get in touch 👋🏻
-E-mail: [sungyeop.choo@gmail.com](mailto:sungyeop.choo@gmail.com) <br>
-Blog: [Choo's Tech blog](https://sungyeop.kr) <br>
-Instagram: [sungyeop.choo](https://www.instagram.com/sungyeop.choo/)
