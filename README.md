@@ -4,7 +4,7 @@
 
 - 📝 I regularly write articles on **[Choo's Tech Blog](https://chooworld.com/)**
 
-- 📫 How to reach me **[sungyeop.choo@gmail.com](mailto:choo@chooworld.com)**
+- 📫 How to reach me **[sungyeop.choo@gmail.com](mailto:sungyeop.choo@gmail.com)**
 
 <br>
 
