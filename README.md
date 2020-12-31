@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋, I'm Sungyeop Choo.</h1>
 
-- 🌱 I’m currently learning **JavaScript** & **Node.js**
+- 🌱 I’m currently learning **JavaScript** & **Node.js** & **React**
 
 - 📝 I regularly write articles on **[Choo's Tech Blog](https://chooworld.com/)**
 
