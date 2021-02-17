@@ -22,6 +22,8 @@
 - Tools <br>
 ![vscode](https://img.shields.io/badge/VScode-black?logo=visual-studio-code)
 ![webstorm](https://img.shields.io/badge/WebStorm-black?logo=webstorm)
+![slack](https://img.shields.io/badge/Slack-black?logo=slack)
+![postman](https://img.shields.io/badge/Postman-black?logo=postman) <br>
 
 - Blog: **[Choo's Tech Blog](https://chooworld.com/)**
 
