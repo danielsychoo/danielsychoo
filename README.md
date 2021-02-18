@@ -8,6 +8,7 @@
 
 - Front-end <br>
 ![react](https://img.shields.io/badge/React-black?logo=react)
+![react](https://img.shields.io/badge/React_Hooks-black?logo=react)
 ![react-router](https://img.shields.io/badge/React_router-black?logo=react-router)
 ![html5](https://img.shields.io/badge/HTML5-black?logo=html5)
 ![css3](https://img.shields.io/badge/CSS3-black?logo=css3)
