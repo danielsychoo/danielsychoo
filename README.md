@@ -15,6 +15,7 @@
 - Back-end <br>
 ![node](https://img.shields.io/badge/Node.js-black?logo=node.js)
 ![mysql](https://img.shields.io/badge/MySQL-black?logo=mysql)
+![sequelize](https://img.shields.io/badge/Sequelize-black)
 
 - Deployment <br>
 ![AWS](https://img.shields.io/badge/AWS-black?logo=Amazon-AWS)
@@ -24,6 +25,8 @@
 ![webstorm](https://img.shields.io/badge/WebStorm-black?logo=webstorm)
 ![slack](https://img.shields.io/badge/Slack-black?logo=slack)
 ![postman](https://img.shields.io/badge/Postman-black?logo=postman) <br>
+![workbench](https://img.shields.io/badge/MySQL_Workbench-black)
+![notion](https://img.shields.io/badge/Notion-black?logo=notion)
 
 - Blog: **[Choo's Tech Blog](https://chooworld.com/)**
 
