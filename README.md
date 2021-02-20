@@ -22,12 +22,13 @@
 ![AWS](https://img.shields.io/badge/AWS-white?logo=Amazon-AWS)
 
 - Tools <br>
-![vscode](https://img.shields.io/badge/VScode-white?logo=visual-studio-code)
-![webstorm](https://img.shields.io/badge/WebStorm-white?logo=webstorm)
-![slack](https://img.shields.io/badge/Slack-white?logo=slack)
-![postman](https://img.shields.io/badge/Postman-white?logo=postman) <br>
+![vscode](https://img.shields.io/badge/VScode-white)
+![webstorm](https://img.shields.io/badge/WebStorm-white)
+![slack](https://img.shields.io/badge/Slack-white)
+![postman](https://img.shields.io/badge/Postman-white) <br>
+![zeplin](https://img.shields.io/badge/Zeplin-white)
 ![workbench](https://img.shields.io/badge/MySQL_Workbench-white)
-![notion](https://img.shields.io/badge/Notion-white?logo=notion)
+![notion](https://img.shields.io/badge/Notion-white)
 
 - Blog: **[Choo's Tech Blog](https://chooworld.com/)**
 
