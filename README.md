@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋, I'm Sungyeop Choo.</h1>
+<h2 align="left">Hi 👋, I'm Sungyeop Choo.</h2>
 
 - My language <br>
 ![Korean](https://img.shields.io/badge/Korean-red)
