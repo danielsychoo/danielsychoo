@@ -73,5 +73,3 @@ When developing, I enjoy implementing pretty things.
   <img src="https://img.shields.io/badge/Channel-Discord-5865F2?logoColor=white&style=flat&logo=Discord">
   <img src="https://img.shields.io/badge/Channel-GoogleMeet-00897B?logoColor=white&style=flat&logo=Google Meet">
 </section>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=danielsychoo&" alt="danielsychoo" /></p>
