@@ -32,6 +32,7 @@ When developing, I enjoy implementing pretty things.
 - Mobile (Main) <div>
                   <img src="https://img.shields.io/badge/iOS-black?logoColor=white&style=flat-square&logo=Apple">
                   <img src="https://img.shields.io/badge/Swift-F05138?logoColor=white&style=flat-square&logo=Swift">
+                  <img src="https://img.shields.io/badge/ReactorKit-5B98e0?logoColor=white&style=flat-square&logo=Swift">
                   <img src="https://img.shields.io/badge/RxSwift-B7178C?logoColor=white&style=flat-square&logo=ReactiveX">
                 </div>
 - FrontEnd (Sub) <div>
