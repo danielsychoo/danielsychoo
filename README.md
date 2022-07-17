@@ -15,10 +15,10 @@
 <br>
 
 My name is DanielChoo and I'm **_Software developer_** of **_iOS_**!📱 <br>
-I'm from South Korea 🇰🇷, living in Daejeon and currently **_Senior Researcher👨🏻‍💻_** in Twinny CO.Ltd <br>
+I'm from South Korea 🇰🇷, living in Daejeon and I'm develop **a platform for self-driving robots🤖** at Twinny Co., Ltd. <br>
 
 저는 **_iOS 소프트웨어 개발자_** 📱 추성엽입니다! <br>
-저는 대전🇰🇷 에 살고 있고, 현재 (주)트위니의 **_선임연구원👨🏻‍💻_** 으로 일하고 있습니다.
+현재 대전🇰🇷 에 살고 있고, (주)트위니에서 **자율주행로봇🤖의 플랫폼**을 만들고 있습니다.
 
 I always try to write on **_tech-blog📝_** about my studies and development in my daily life. <br>
 In my spare time, I enjoy life by **_traveling✈️_** and **_camping⛺️_**, <br>
