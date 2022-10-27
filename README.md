@@ -15,7 +15,7 @@
 <br>
 
 My name is DanielChoo and I'm **_Software developer_** of **_iOS_**!📱 <br>
-I'm from South Korea 🇰🇷, living in Daejeon and I'm develop **a platform for self-driving robots🤖** at Twinny Co., Ltd. <br>
+I'm from South Korea 🇰🇷, living in Daejeon and I'm develop **a platform for self-driving robot🤖** at Twinny Co., Ltd. <br>
 
 저는 **_iOS 소프트웨어 개발자_** 📱 추성엽입니다! <br>
 현재 대전🇰🇷 에 살고 있고, (주)트위니에서 **자율주행로봇🤖의 플랫폼**을 만들고 있습니다.
