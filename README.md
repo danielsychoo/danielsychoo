@@ -67,6 +67,9 @@ When developing, I enjoy implementing pretty things.
 </section>
 <section>
   <img src="https://img.shields.io/badge/Agile-Jira-0052CC?logoColor=white&style=flat&logo=Jira">
+  <img src="https://img.shields.io/badge/Agile-ClickUp-7B68EE?logoColor=white&style=flat&logo=ClickUp">
+</section>
+<section>
   <img src="https://img.shields.io/badge/Documents-Confluence-172B4D?logoColor=white&style=flat&logo=Confluence">
   <img src="https://img.shields.io/badge/Documents-Notion-000000?logoColor=white&style=flat&logo=Notion">
 </section>
