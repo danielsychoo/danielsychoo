@@ -2,7 +2,7 @@
 
 <div id="#link-button-wrapper">
   <a href="https://chooios.com" target="_blank">
-    <img src="https://img.shields.io/badge/TechBlog:Choo--Wiki-7957D5?logoColor=white&style=plastic&logo=Buefy">
+    <img src="https://img.shields.io/badge/TechBlog:chooios.com-7957D5?logoColor=white&style=plastic&logo=Buefy">
   </a>
   <a href="mailto:sungyeop.choo@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/sungyeop.choo@gmail.com-EA4335?logoColor=white&style=plastic&logo=Gmail">
